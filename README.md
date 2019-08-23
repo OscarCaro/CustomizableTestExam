@@ -3,7 +3,7 @@ A test type exam (V or F)  with customizable questions/answers and score ratings
 
 ## Usage
 
-1. Download the [files folder](https://github.com/OscarCaro/CustomizableTestExam/tree/master/Files) (executable) and questions.txt)
+1. Download the [files folder](https://github.com/OscarCaro/CustomizableTestExam/tree/master/Files)
 2. Place them in the same folder
 3. Run text.exe
 
